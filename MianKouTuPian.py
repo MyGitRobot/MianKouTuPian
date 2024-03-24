@@ -1,14 +1,13 @@
-''' Encoding: UTF-8'''
+# -*- coding: utf-8 -*-
 
-# If you want to modify this file and publish it, please update the information below.
-
-'''
+"""
+Program: 免抠图片网下载
 Source: https://miankoutupian.com/
 Author: MrCrawL
-Created Time: 2024-02-09
-Modified Time: 2024-02-11
+Created Date: 2024-02-09
+Last Modified: 2024-03-24
 Modified by: MrCrawL
-'''
+"""
 
 from requests import get, post
 from re import findall
